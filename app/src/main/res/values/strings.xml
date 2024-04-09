@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentCard</string>
+    <string name="student">Maria Luiza Passo Silva</string>
+    <string name="grade">3º Novotec Desenvolvimento de Sistemas</string>
+</resources>
